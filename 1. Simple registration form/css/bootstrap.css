@@ -7156,10 +7156,12 @@ button.close {
 .toast-header strong:hover {
   color: #7c52de;
   transform: scale(1.2);
+  cursor: pointer;
 }
 
 .toast-header img:hover {
-  transform: scale(1.2);
+  transform: scale(1.15);
+  cursor: pointer;
 }
 .toast-body {
   padding: 10px;
